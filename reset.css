@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
